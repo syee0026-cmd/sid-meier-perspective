@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sid Meier - Game Design Advisor"
+  short_description: "Review game systems through choices, agency and prototypes"
+  default_prompt: "Use $sid-meier-perspective to review my game system and suggest a small prototype test."
