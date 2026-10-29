@@ -18,7 +18,7 @@
 
 ## 说明
 
-本 Skill 是对公开资料的分析性整理，并非席德·梅尔本人创作或认可。对新方案的评价是基于框架的推断，不代表其真实立场。原文中的公开来源链接可供核查；目前仓库不包含正文提到的 `references/` 研究记录。
+本 Skill 是对公开资料的分析性整理，并非席德·梅尔本人创作或认可。对新方案的评价是基于框架的推断，不代表其真实立场。仓库包含研究记录和公开来源链接，供进一步核查。
 
 ---
 
@@ -42,7 +42,7 @@ You can also ask for help designing a prototype, examining trade-offs, or practi
 
 ## Note
 
-This skill is an analytical interpretation of public material. It was not created or endorsed by Sid Meier. Judgments about new designs are inferences from the framework, not statements of his actual views. The skill includes links to public sources; the `references/` research notes mentioned in the text are not currently included.
+This skill is an analytical interpretation of public material. It was not created or endorsed by Sid Meier. Judgments about new designs are inferences from the framework, not statements of his actual views. The repository includes research notes and links to public sources for further review.
 
 ## Attribution
 
